@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainPatcher.cs" />
-    <Compile Include="NoEatingPatch.cs" />
+    <Compile Include="NoEatingNoisePatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

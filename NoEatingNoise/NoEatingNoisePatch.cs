@@ -3,7 +3,7 @@
 namespace NoEatingNoise
 {
     [HarmonyPatch(typeof(TechSoundData), nameof(TechSoundData.GetUseSound))]
-    internal class NoEatingPatch
+    internal class NoEatingNoisePatch
     {
         [HarmonyPrefix]
         internal static void Prefix(ref TechData.SoundType type)
