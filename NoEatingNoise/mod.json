@@ -1,0 +1,12 @@
+{
+  "Id": "NoEatingNoise",
+  "DisplayName": "No eating noise",
+  "Author": "aeklundh",
+  "Version": "1.0.0",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "NoEatingNoise.dll",
+  "EntryMethod": "NoEatingNoise.MainPatcher.Patch",
+  "Game": "BelowZero",
+  "Config": {}
+}
